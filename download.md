@@ -221,6 +221,8 @@
 
 [CEF分支](https://www.lanzoui.com/ia3jepg)（此分支暂时不更新，内核过于陈旧，有时间会尝试修改最新内核，另外，这个分支是以前VIA电脑版的遗产， **暂时只有本分支支持读取VIA云同步的书签**）（~~好像也不行了，api换地址了~~）
 
+[CR分支旧版本](https://dmlgzs.lanzoui.com/b0d25zl8f)
+
 ### 赞助
 
 如果要赞助，就[点这里](love_it.md)
