@@ -1,4 +1,4 @@
 [NewVersion]
 Version=3.0.21.4577
 NeiRong=①更换93.0.4577.27内核\n②支持H.265/HEVC格式视频播放\n③默认开启滚动标签页功能\n④默认主页修改回新标签页（无论选何种搜索引擎都支持更换背景）\n⑤由于谷歌的政策，此版本开始不支持谷歌的Chrome Sync\n⑥增加刷新按钮右键的高级菜单\n⑦搜索引擎中增加谷歌搜索\n⑧修改关于页面及版本信息页面\n⑨修复其他一些小问题\n⑩凑数凑个整\n——2021.08.06
-DiZhi=https://dmlgzs.lanzoui.com/iKkassbh2yh
+DiZhi=https://dmlgzs.lanzoui.com/iKkassbh2y
